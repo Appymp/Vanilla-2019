@@ -3,6 +3,4 @@ Exploratory data visualisation and insights, from observation based data collect
 
 Use nbviewer to open the links to the jupyter notebooks:
 Data Cleaning https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Cleaning%20.ipynb
-Data Visualisation https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb
-
-https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb?flush_cache=true
+Data Visualisation https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb?flush_cache=true
