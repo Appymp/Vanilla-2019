@@ -1,5 +1,5 @@
 # Vanilla-Analysis
-Exploratory data visualisation and insights, from observation based data collecting, of a Vanilla cultivation. The flowers had to be manually pollinated. Pollinated flowers become vanilla pods.
+Exploratory data visualisation and insights, from observation based data collecting, of a Vanilla cultivation. The flowers had to be manually pollinated. Pollinated flowers become vanilla pods. Please check the research_paper by finding the file in this repository.
 
 Use nbviewer to open the links to the jupyter notebooks:
 
