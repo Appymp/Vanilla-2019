@@ -3,7 +3,7 @@ Exploratory data visualisation and insights, from observation based data collect
 How many new flowers can be expected for the season?
 How to plan out optimal manual pollination strategy?
 
-To view the visualizations and render the notebooks please click these links from nbViewer:
+
 Visualizations for 2020 season: https://nbviewer.jupyter.org/github/Appymp/Vanilla-2020/blob/master/Vanilla_2020_14_Nov.ipynb
 
 Visualizations for 2019 season:
