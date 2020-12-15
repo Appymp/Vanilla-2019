@@ -8,6 +8,7 @@ Visualizations for 2020 season: https://nbviewer.jupyter.org/github/Appymp/Vanil
 
 Visualizations for 2019 season:
 Data Cleaning https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Cleaning%20.ipynb
+
 Data Visualisation https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb?flush_cache=true
 
 
