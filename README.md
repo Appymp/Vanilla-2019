@@ -5,10 +5,10 @@ How to plan out optimal manual pollination strategy?
 
 
 2019:
-Data Cleaning https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Cleaning%20.ipynb
-Visualizations https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb?flush_cache=true
+- Data Cleaning https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Cleaning%20.ipynb
+- Visualizations https://nbviewer.jupyter.org/github/Appymp/Vanilla-Analysis/blob/master/Vanilla%20Data%20Visualisation.ipynb?flush_cache=true
 
 
 2020:
-Refer to the 2020 repo here: https://github.com/Appymp/Vanilla-2020
-Visualizations https://nbviewer.jupyter.org/github/Appymp/Vanilla-2020/blob/master/Vanilla_2020_14_Nov.ipynb
+- Refer to the 2020 repo here: https://github.com/Appymp/Vanilla-2020
+- Visualizations https://nbviewer.jupyter.org/github/Appymp/Vanilla-2020/blob/master/Vanilla_2020_14_Nov.ipynb
